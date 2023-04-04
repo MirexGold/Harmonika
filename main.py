@@ -1,6 +1,6 @@
 import pgzrun
 
-TITLE = "AccordioN"
+TITLE = "AccordeoN"
 WIDTH = 450
 HEIGHT = 450
 
